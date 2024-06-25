@@ -26,6 +26,10 @@ Esta imagem Docker é uma aplicação simples em Go que imprime a mensagem "Full
 - **Tamanho:** < 2 MB
 - **Saída:** "Full Cycle Rocks!!"
 
+### Link da imagem no Docker Hub
+
+[https://hub.docker.com/repository/docker/ansusambu/fullcycle](https://hub.docker.com/repository/docker/ansusambu/fulcycle)
+
 ### Autor
 
 Ansumane Sambu
